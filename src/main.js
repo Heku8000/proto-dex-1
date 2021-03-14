@@ -1,6 +1,9 @@
 import Vue from 'vue'
+import './plugins/axios'
+import './plugins/bootstrap-vue'
 import App from './App.vue'
 import './registerServiceWorker'
+import './plugins/bootstrap-vue'
 import router from './router'
 import store from './store'
 
